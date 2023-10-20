@@ -1,4 +1,4 @@
-# Machine-Learning-
+# Machine-Learning
 
 This is my projects in subject cs115
 
